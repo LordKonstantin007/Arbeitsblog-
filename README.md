@@ -6,47 +6,47 @@
 
 14.08: Ich wollte erst eine Mod zusammen mit Konstantin für das oben genannte Spiel programmieren, dafür hatte ich die erforderlichen Directories von Zuhause kopiert. In der Stunde habe ich mir ein Konzept für diese Mod überlegt.Jedoch entsprach dies nicht unseres Arbeitsauftrags
 
-15.08: Heute hat Cyrus angefangen zu Modden, bzw. hat sich den Code von anderen Mods angeschaut.
+15.08: Heute hat Cyrus angefangen zu Modden, bzw. hat sich den Code von anderen Mods angeschaut um bestimmte in der Mod verhandenen Features zu verstehen.
 
 20.08: Heute habe ich Konstantin ein wenig vom Code bei Eu4 erklärt. Doch wir mussten ein neues Projekt auswählen.
 
-21.08: Heute haben wir uns Arduino angeschaut, jedoch hatten wir darauf doch keine Lust
+21.08: Heute haben wir uns Arduino angeschaut, jedoch hatten wir dann doch keine Lust darauf.
 
-22.08: Heute haben wir uns Videos zu Neuronalen Netzwerken angeschaut und uns dazu entschieden eine KI zu programmieren.
+22.08: Heute haben wir uns Videos zu Neuronalen Netzwerken angeschaut und uns dazu entschieden eine KI zu programmieren. 
 
 27.08: Heute haben wir uns die verschiedenen Programme angeschaut, mit welchen sich Neuronale Netzwerke Programmieren lassen: (Docker, Tensorflow, Scikitlearn, Keras)
 
-28.08: Heute haben wir uns für Keras und Tensorflow entschieden und uns Videos angeschaut, wie man beide installiert.
+28.08: Heute haben wir uns für Keras und Tensorflow entschieden und uns Videos angeschaut, wie man beide installiert. Jedoch waren die Computer zu Beginn der Videos einen anderen Zustand, weshalb nichts bei uns funktionierte
 
-29.08: Heute haben wir versucht PiP zu installieren, leider erfolglos. 
+29.08: Heute haben wir versucht pip zu installieren, leider erfolglos. Pip ist ein für Tensorflow erforderliches Programm.
 
-11.09: Heute haben wir herausgefunden, dass Phyton nicht einem zusätzlichen Path zugeteilt wurde und haben dies getan.
+11.09: Heute haben wir herausgefunden, dass Phyton nicht einem zusätzlichen Path zugeteilt wurde und haben dies getan, damit wir einen größeren Zugriff auf Befehle bekommen, welche erforderlich waren.
 
-12.09: Heute haben wir den App Data Ordner im Windows Explorer sichtbar gemacht und Befehle für CMD gelernt.
+12.09: Heute haben wir den App Data Ordner im Windows Explorer sichtbar gemacht und Befehle für CMD gelernt, weil diese für die Installation notwendig waren.
 
-24.09: Heute haben wir versucht virtual env (enviroment) zu installieren. Dies hat nicht geklappt.
+24.09: Heute haben wir versucht virtual env, auch ein für tensorflow erforderliches Programm, zu installieren. Dies hat nicht geklappt.
 
-25.09: Heute haben wir herausgefunden, dass sich Keras und Tensorflow einfach über Phyton Addon Manager installieren lassen kann. Und wir haben angefangen Anaconda zu Downloaden.
+25.09: Heute haben wir herausgefunden, dass sich Keras und Tensorflow einfach über Phyton Addon Manager installieren lassen kann. Und wir haben angefangen Anaconda zu Downloaden. Somit können wir die Libraries über ein virtuelles Envirement laden. Dadurch ist uns viel Zeit verloren gegangen. Vorallem die verschiedenen Installationswege waren unterschiedlich und haben einen komplett verwirrt.
 
-26.09:Heute haben wir den Fehler gefunden, weshalb sich Anaconda nicht installieren lässt. 
+26.09: Heute haben wir den Fehler gefunden, weshalb sich Anaconda nicht installieren lässt und ihn behoben. Außerdem haben wir uns entschieden in Spyder der Code vorerst zu schreiben. Der Vorteil von Spyder ist es, dass Fehler im Code an der Seite angezeigt werden, sodass man schnell seine Fehler findet. 
 
-01.10:Heute haben wir angefangen Keras und Tensorflow über Anaconda zu downloaden, der download lief bis zum Abend, weil der Laptop sehr lange brauchte. (Auf dem PC zuhause ließ sich 
+01.10: Heute haben wir angefangen Keras und Tensorflow über Anaconda zu downloaden, der download lief bis zum Abend, weil der Laptop sehr lange brauchte. (Auf dem PC zuhause ließ sich Anaconda schnell installieren, lag also am Schulinternet)
 
-02.10: Heute haben wir uns das MNIST-Dataset angeschaut um einen besseren Eindruck zum Cooden zu Gewinnen.
+02.10: Heute haben wir uns das MNIST-Dataset angeschaut um einen besseren Eindruck zum Cooden und Struktur zu Gewinnen.
 
 Herbstferien: In den Herbstferien hat Cyrus sich viele Videos zu KIs angeschaut und auch den Code von verschiedenen Datasets sich angeschaut.
 
-22.10: Heute haben wir 
+22.10: Heute haben wir uns verschiedene Strukturen von CNNs angeschaut und uns für die VGG like Convnet Struktur entschieden, da diese am simpelsten aufgebaut ist.
 
-23.10:
+23.10: Heute haben wir Videos zum MNIST Dataset angeschaut. 
 
-24.10:
+24.10: 
 
 29.10:
 
-02.11+03.11: Heute hat Cyrus 
+02.11+03.11: Heute hat Cyrus die KI auf Grundlage von verschiedenen Datasets geschrieben.
 
-05.11:Heute haben wir unsere Projektseite weitergeschrieben. Außerdem hat Cyrus am Nachmittag ein Script im Python geschrieben um 10% des Trainingset in das Validationset zu splitten. 
+05.11: Heute haben wir unsere Projektseite weitergeschrieben. Außerdem hat Cyrus am Nachmittag ein Script im Python geschrieben um 10% des Trainingset in das Validationset zu splitten. 
 
 06.11: Heute haben wir die Prediction Testbilder in Paint erstellt, und unseren Prediction Output programmiert.  
 
