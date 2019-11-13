@@ -2,9 +2,9 @@
 
 ## Zeitverlauf, start 13.08.2019 bis 15.11.2019
 
-13.08: Erster Informatik Unterricht. Wir erhielten eine kurze Einleitung in die Welt der des Programmierens, dabei wurden uns Möglichkeiten und Ideen für ein Projekt gegeben. Hinweis darauf, Konstantin war nicht in der ersten Woche in der Schule. Cyrus hat sich in der Ersten Woche reingelesen um ein Projekt zu finden. Konstantin kam dann eine Woche später dazu und hat sich auch erstmal reinlesen müssen. Zur Inspiration hat er sich die Projekte des letzten Jahres angeschaut. Dinge die er sich vorstellen könnte wären: Game modding (z.B. das Spiel Europa Universalis IV ), aber auch Programmieren in Game Engines wie Unity und Unreal Engine. 
+###13.08: Erster Informatik Unterricht. Wir erhielten eine kurze Einleitung in die Welt der des Programmierens, dabei wurden uns Möglichkeiten und Ideen für ein Projekt gegeben. Hinweis darauf, Konstantin war nicht in der ersten Woche in der Schule. Cyrus hat sich in der Ersten Woche reingelesen um ein Projekt zu finden. Konstantin kam dann eine Woche später dazu und hat sich auch erstmal reinlesen müssen. Zur Inspiration hat er sich die Projekte des letzten Jahres angeschaut. Dinge die er sich vorstellen könnte wären: Game modding (z.B. das Spiel Europa Universalis IV ), aber auch Programmieren in Game Engines wie Unity und Unreal Engine. 
 
-14.08: Ich wollte erst eine Mod zusammen mit Konstantin für das oben genannte Spiel programmieren, dafür hatte ich die erforderlichen Directories von Zuhause kopiert. In der Stunde habe ich mir ein Konzept für diese Mod überlegt.Jedoch entsprach dies nicht unseres Arbeitsauftrags
+###14.08: Ich wollte erst eine Mod zusammen mit Konstantin für das oben genannte Spiel programmieren, dafür hatte ich die erforderlichen Directories von Zuhause kopiert. In der Stunde habe ich mir ein Konzept für diese Mod überlegt.Jedoch entsprach dies nicht unseres Arbeitsauftrags
 
 15.08: Heute hat Cyrus angefangen zu Modden, bzw. hat sich den Code von anderen Mods angeschaut um bestimmte in der Mod verhandenen Features zu verstehen.
 
