@@ -54,34 +54,35 @@ Heute haben wir uns das MNIST-Dataset angeschaut um einen besseren Eindruck zum 
 In den Herbstferien hat Cyrus sich viele Videos zu KIs angeschaut und auch den Code von verschiedenen Datasets sich angeschaut.
 
 ### 22.10
-Heute haben wir uns verschiedene Strukturen von CNNs angeschaut und uns für die VGG like Convnet Struktur entschieden, da diese am simpelsten aufgebaut ist.
-
+Heute haben wir uns einen Überblick verschafft was wir konkret in unserem Code brauchen (image classification cnn).
 ### 23.10
-Heute haben wir Videos zum MNIST Dataset angeschaut. 
+Heute haben wir Videos zum MNIST Dataset angeschaut und trainiert. 
 
 ### 24.10 
+Heute haben wir uns für Bilddatenbanken auf kaggle umgeschaut, um aus dem Bildmaterial eine KI zu programmieren. Dabei sind wir auf ein Dataset mit Dreiecken, Sternen, Vierecken und Kreisen gestoßen. Außerdem haben wir die Bilder gedownloaded.
 
 ### 29.10
-
+Heute haben wir uns auf github und kaggle verschiedene Codes von KIs angeschaut.
 ### 02.11+03.11
-Am Wochenende hat Cyrus die KI auf Grundlage von verschiedenen Datasets geschrieben.
+Am Wochenende hat Cyrus die KI fertiggestellt.
 
 ### 05.11
 Heute haben wir unsere Projektseite weitergeschrieben. Außerdem hat Cyrus am Nachmittag ein Script im Python geschrieben um 10% des Trainingset in das Validationset zu splitten. 
 
 ### 06.11
-Heute haben wir die Prediction Testbilder in Paint erstellt, und unseren Prediction Output programmiert.  
+Heute haben wir die Prediction Testbilder in Paint erstellt, und unseren Prediction Output programmiert und an der Projektseite geschrieben.
 
 ### 07.11
-Ausführung des Codes auf dem Laptop ist fehlgeschlagen. 
+Ausführung des Codes auf dem Laptop ist fehlgeschlagen, deswegen haben wir weiter an der Projektseite geschrieben.
 
 ### 12.11
-Vervollständigung des Arbeitsblogs, Fehlerbehebung bei den Predictions: Kreis=1 Viereck=0, (Abhängig davon was davon zuerst im Ordner oben steht). Änderung des Optimizers rmscrop->adadelta.
+Vervollständigungen des Arbeitsblogs, Fehlerbehebung bei den Predictions: Kreis=1 Viereck=0, (Abhängig davon was davon zuerst im Ordner oben steht). Änderung des Optimizers rmscrop->adadelta.
 
 ### 13.11
-Vervollständigung des Arbeitsblogs, Auswerten der Prediction Testbilder und Einfügen von dessen Ergebnissen, sowie Einfügung weiteren Informationen. 
+Vervollständigung des Blogs, Auswerten der Prediction Testbilder und Einfügen von dessen Ergebnissen, sowie Einfügung weiteren Informationen. 
 
 ### 14.11
-
+Vervollständigung des Blogs
 
 ### 15.11
+Kleinere Korrekturen
